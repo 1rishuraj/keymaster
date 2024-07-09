@@ -2,6 +2,9 @@
 
 **KeyMaster** is a secure password manager built with the MERN stack, featuring a React frontend and an Express.js backend, with MongoDB handling CRUD operations. The application allows the user to save, update, and delete passwords, ensuring secure storage and easy access.
 
+![keymaster](https://github.com/1rishuraj/keymaster/assets/49861230/12b63942-0135-4c7f-9b93-5c568e69db7c)
+
+
 ## Features
 
 - **Password Management**: Save, edit, and delete your passwords with ease.
