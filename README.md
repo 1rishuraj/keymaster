@@ -15,13 +15,9 @@
 - **Persistent Storage**: Passwords are stored in MongoDB, ensuring data persists across sessions.
 - **Deployed on Vercel**: The application is hosted online.
 
-## Important Note
-
-This project is designed for personal use and all passwords are stored in a single MongoDB database. This means that the application is intended for use by a single user, whose database credentials are provided.
-
 ### Deploy Your Own Instance
 
-To use KeyMaster for your own purposes, you can deploy the codebase and provide your own MongoDB database URL as an environment variable. 
+To use KeyMaster for own purposes, do deploy the codebase and provide personal MongoDB database URL as an environment variable. 
 
 ## Usage
 
