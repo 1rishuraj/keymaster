@@ -56,7 +56,7 @@ The backend is powered by Express.js, handling API requests and interacting with
 
 ## Demo
 
-Check out the demo [here](https://drive.google.com/file/d/1MbY5o0BKQtFw-fDGvPvuZKlO0NiexT3j/view).
+Check out the demo <a href="https://drive.google.com/file/d/1MbY5o0BKQtFw-fDGvPvuZKlO0NiexT3j/view" target="_blank">here</a>.
 
 ## Contributing
 
